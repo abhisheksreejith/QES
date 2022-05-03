@@ -4,7 +4,7 @@ This is a fully functional Question and Answer website built using django (pytho
 ## Prerequisites
 * Python 3.7 (lower versions also work correctly)
 * Django 2.0 or higher
-* Pillow
+
 
 ## Setting up the project in your system
 Download the whole project. You will get a zip file named "QES.zip" in your download folder. Extract the file at any location.
