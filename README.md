@@ -1,4 +1,4 @@
-# QES (Quora for Enginnering students)
+# QES (Quora for Engineering students)
 This is a fully functional Question and Answer website built using django (python), html, css, javascript.
 
 ## Prerequisites
