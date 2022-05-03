@@ -7,7 +7,7 @@ This is a fully functional Question and Answer website built using django (pytho
 * Pillow
 
 ## Setting up the project in your system
-Download the whole project. You will get a zip file named "Ask-Questions---Django-based-website-master.zip" in your download folder. Extract the file at any location.
+Download the whole project. You will get a zip file named "QES.zip" in your download folder. Extract the file at any location.
 
 ## Hosting the website on your system
 Now open the terminal and change directory to the location where the project folder is located. Then chage directory using this command
